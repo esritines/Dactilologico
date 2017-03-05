@@ -29,6 +29,7 @@
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:gravity="center"
+            android:textColor="@android:color/white"
             android:id="@+id/textView"
             android:layout_weight="1" />
 
